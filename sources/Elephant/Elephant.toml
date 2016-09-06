@@ -98,7 +98,7 @@ tags = ["Apps","Exchange"]
 
 [[links]]
 type = "exchange"
-name = "Dex-trade"
-icon = "dex-trade.png"
-url = "http://dex-trade.com"
+name = "C-cex"
+icon = "c-cex.png"
+url = "https://c-cex.com/"
 tags = ["Apps","Exchange"]
